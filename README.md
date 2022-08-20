@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Sourabh--udasi-lightgrey)
 
-## Paytm UI Clone (FULLY Responsive) [Live Link](https://paytmui.netlify.app/)
+## Paytm UI Clone (FULLY Responsive) [Live Link](https://paytm-c.netlify.app/)
 
 ---
 
